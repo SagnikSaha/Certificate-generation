@@ -1,0 +1,2 @@
+# Certificate-generation
+This is all about generating from a PDF certificate based on the USER name and ID or any other credentials. The information about the user is stored in a database in WAMP server(in this case). When the user inputs his/her genuine credentials in the login page, A pdf will be generated retrieving all the stored data from the database.The pdf generation has been done using FPDF.
